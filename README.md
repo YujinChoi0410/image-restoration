@@ -1,2 +1,2 @@
 # image-restoration
-image restoration by band-reject filter
+image restoration by mean filter
